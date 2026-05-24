@@ -56,4 +56,4 @@ This is my personal portfolio website built to showcase my skills, projects, cod
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/harish-3558/Portfolio.git
